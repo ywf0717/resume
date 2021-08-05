@@ -2,15 +2,14 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "周俊",
-        "description": "岂能尽如人意，但求无愧我心",
+        "name": "杨维峰",
+        "description": "种一棵树最好的时候是十年前,其次是现在",
         "school": "中山大学",
         "profession": "计算机科学与技术",
         "sex": "男",
-        "education" : "本科",
-        "workage": "2012届毕业",
-        "phone": "15088888888",
-        "email": "tonjayin@gmail.com"
+        "education" : "专科",
+        "phone": "13137419459",
+        "email": "ywf1245727316@163.com"
     },
     "social":[
         {
@@ -29,7 +28,7 @@
             "icon": ""
         },
         {
-            "type": "twitter",
+            "type": "qq",
             "link": "https://twitter.com",
             "icon": ""
         },
